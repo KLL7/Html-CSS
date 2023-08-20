@@ -1,0 +1,45 @@
+<DOCTYPE! html>
+<html> 
+<head>
+        <title>Meu Curriculo</title>
+    </head>
+    <body>
+<font face="Arial">
+        <h1>
+            <center>
+                <font color="blue">Curriculo</font>
+            </center>
+        </h1>
+       <center>
+        <img src="c:\Users\luis lima\OneDrive\Documentos\IMG-20230820-WA0027.jpg"
+         alt="foto do Kayo" 
+         height="150" width="150" />
+    </center>
+<center>
+    <h2>
+Kayo Lucas Lima
+    </h2>
+</center>
+<h3>
+    <center>
+        <font color="blue">16 anos, casado, brasileiro e flamenguista.</font>
+</center>
+
+</h3>
+<center>
+<br>
+<p>
+Curso de <a href="https://unity.com/pt">Unity 3d</a>, desenvolvimento de games completo.
+</p>
+<br>
+<p>
+Curso de informatica basica em <a href="https://blogs.windows.com/">Windowns</a> e <a href="https://www.linux.org/">Linux</a>.
+</p>
+<br>
+<p>
+<font color="red">Tenho que ir atras de mais coisas para colocar no curriculo.</font>
+</p>
+</center>
+</font>
+    </body>
+    </html>   
